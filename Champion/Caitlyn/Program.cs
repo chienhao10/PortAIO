@@ -86,7 +86,7 @@ namespace PortAIO.Champion.Caitlyn
             drawMenu.Add("noti", new CheckBox("Show notification & line"));
             drawMenu.Add("qRange", new CheckBox("Q range"));
             drawMenu.Add("wRange", new CheckBox("W range"));
-            drawMenu.Add("eRange", new CheckBox("E rang"));
+            drawMenu.Add("eRange", new CheckBox("E range"));
             drawMenu.Add("rRange", new CheckBox("R range"));
             drawMenu.Add("onlyRdy", new CheckBox("Draw only ready spells"));
 
